@@ -28,7 +28,11 @@ Este estudo trata acerca do processo de <strong>gerência do desenvolvimento de 
 
 Diante disso, surge a necessidade de desenvolver uma solução que <strong>otimize</strong> o tempo gasto nesse processo descrito. A hipótese levantada é que, a aplicação de práticas de <strong>Engenharia de Software e metodologias ágeis</strong> pode resultar em um produto de <strong>alta qualidade</strong>, que atenda às necessidades do cliente e aumente a <strong>produtividade</strong> dos setores envolvidos. Sendo assim, o <strong>objetivo</strong> é demonstrar a <strong>eficácia da aplicação dessas estratégias no desenvolvimento de uma solução</strong>.
 
-Para atingir esses objetivos, serão investigadas diferentes metodologias ágeis e práticas de Engenharia de Software, além da <strong>análise dos requisitos e necessidades dos usuários</strong>. Será desenvolvida uma <strong>arquitetura</strong> de software adequada, com foco na <strong>segurança das informações</strong> e na <strong>escalabilidade</strong> do sistema. Também serão realizados testes de <strong>aceitação e validação</strong> para garantir a <strong>qualidade</strong> da solução.
+Para atingir esses objetivos, serão investigadas diferentes metodologias ágeis e práticas de Engenharia de Software, além da <strong>análise dos requisitos e necessidades dos usuários</strong>. Será desenvolvida uma <strong>arquitetura</strong> de software adequada, com foco na <strong>segurança das informações</strong> e na <strong>escalabilidade</strong> do sistema. Também serão realizados testes de <strong>aceitação e validação</strong> para garantir a <strong>qualidade</strong> da solução. <br/>
+
+<div align="center">
+<img src="https://github.com/Davi-Perdigao/Tcc_Mobilizacao/blob/main/Assets/Metodologia.png" width="1050px"> 
+</div><br/>
 
 Este estudo contribuirá para o <strong>conhecimento científico e prático</strong> no campo da <strong>Engenharia de Software</strong> e <strong>gestão de projetos</strong>, fornecendo <strong>recomendações e boas práticas</strong> para um <strong>desenvolvimento ágil</strong>, baseado nessa solução aplicada em um <strong>contexto real</strong>.
 
