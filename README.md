@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/php-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </h3>
 
-## Resumo 
+## Resumo 📄
 <div align="justify">
 
 Este estudo trata acerca do processo de <strong>gerência do desenvolvimento de um software para mobilização empresarial</strong>, de forma a representar um impacto positivo em um curto perído de tempo. A empresa <strong>Alfa Engenharia e Montagens Industriais</strong> é apresentada como um contexto em que a contratação de colaboradores em grande escala e a mobilização dos colaboradores existentes são desafios. Até então, o processo é realizado de forma manual, mesmo que por meio de planilhas aperfeiçoadas durante anos, ainda assim exige-se muito tempo e mão de obra dos setores de recursos humanos e administrativo. <br/>
